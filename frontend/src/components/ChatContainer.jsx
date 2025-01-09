@@ -65,7 +65,7 @@ const ChatContainer = () => {
             </div>
             <div className="chat-header mb-1">
               <time className="text-xs opacity-50 ml-1">
-              message.createdAt? formatMessageTime(message.createdAt)
+                {message.createdAt? formatMessageTime(message.createdAt): "Just Now"}
               </time>
             </div>
             <div className="chat-bubble flex flex-col">
