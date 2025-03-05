@@ -64,8 +64,6 @@ npm start
 
 Now, open [http://localhost:3000](http://localhost:3000) in your browser to see OnlyChat in action! 🎉  
 
-## 🎥 Demo Video  
-📺 Watch the live demo: [OnlyChat Demo](https://your-video-link.com)  
 
 ## 🖼️ Screenshots  
 ![image](https://github.com/user-attachments/assets/07cce372-45ae-438e-bd5e-bfff5f889f5f)  
